@@ -42,10 +42,10 @@ Currently pivoting toward **AI/Tech product roles** where I can combine system t
 
 ---
 
-### [Azure-VNet-Deployment](https://github.com/TalYanai/Azure-VNet-Deployment) — Azure Infrastructure Automation
-> Automated Azure Virtual Network deployment using ARM Templates.
+### [AI_AGENTS](https://github.com/TalYanai/AI_AGENTS) — AI Agent Experiments
+> Research and implementations around agent architectures — tool use, multi-agent orchestration, and autonomous workflows built with the Claude API.
 
-**Stack:** Azure · ARM Templates · Networking
+**Stack:** Claude API · Python · LLM Tooling
 
 ---
 
